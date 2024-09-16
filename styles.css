@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+.chat-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+}
+#chat-window {
+    height: 400px;
+    overflow-y: scroll;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+#user-input {
+    width: 80%;
+    padding: 15px;
+    border: none;
+    border-top: 1px solid #ddd;
+    font-size: 16px;
+}
+#send-button {
+    width: 20%;
+    padding: 15px;
+    border: none;
+    border-top: 1px solid #ddd;
+    background: #28a745;
+    color: #fff;
+    font-size: 16px;
+}

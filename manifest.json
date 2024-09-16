@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "3.5.1",
+  "metadata": {
+    "appmode": "api",
+    "primary_rmd": null,
+    "primary_html": null,
+    "content_category": "api"
+  },
+  "files": {
+    "R/api.R": {
+      "checksum": "..."
+    },
+    "run_api.R": {
+      "checksum": "..."
+    },
+    "R/analysis/meta_analysis.R": {
+      "checksum": "..."
+    },
+    "R/analysis/network_meta_analysis.R": {
+      "checksum": "..."
+    },
+    "R/analysis/sensitivity_analysis.R": {
+      "checksum": "..."
+    },
+    "R/analysis/meta_regression.R": {
+      "checksum": "..."
+    },
+    "R/plotting/plotting.R": {
+      "checksum": "..."
+    },
+    "R/utils/utils.R": {
+      "checksum": "..."
+    },
+    "R/utils/error_handling.R": {
+      "checksum": "..."
+    },
+    "R/utils/data_validation.R": {
+      "checksum": "..."
+    },
+    "R/tests/setup.R": {
+      "checksum": "..."
+    },
+    "R/tests/test-all.R": {
+      "checksum": "..."
+    },
+    "R/tests/test-meta-analysis.R": {
+      "checksum": "..."
+    },
+    "R/tests/test-network-meta-analysis.R": {
+      "checksum": "..."
+    },
+    "R/tests/test-sensitivity-analysis.R": {
+      "checksum": "..."
+    },
+    "R/tests/test-meta-regression.R": {
+      "checksum": "..."
+    },
+    "R/tests/test-helpers.R": {
+      "checksum": "..."
+    },
+    "frontend/middleware.ts": {
+      "checksum": "..."
+    },
+    "frontend/frontend.tsx": {
+      "checksum": "..."
+    },
+    "frontend/pages/api/meta-analysis.ts": {
+      "checksum": "..."
+    },
+    "frontend/components/ui/button.tsx": {
+      "checksum": "..."
+    },
+    "frontend/components/ui/input.tsx": {
+      "checksum": "..."
+    },
+    "frontend/components/ui/card.tsx": {
+      "checksum": "..."
+    },
+    "frontend/build/static/css/styles.css": {
+      "checksum": "..."
+    }
+  }
+}
